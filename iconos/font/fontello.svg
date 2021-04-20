@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="home-circled" unicode="&#xe800;" d="M0 350q0 207 147 354t353 146 354-146 146-354-146-354-354-146-353 146-147 354z m256-269l168 0 0 210 152 0 0-210 168 0 0 349-244 190-244-190 0-349z" horiz-adv-x="1000" />
+
+<glyph glyph-name="skiing" unicode="&#xe836;" d="M450 750c-50 0-100-25-100-100 0-27 2-31 8-55l34-142-186-114-168 99c-6 3-13 3-22 1-9-2-16-12-16-23 0-11 5-18 13-22l725-425c22-13 43-19 62-19 13 0 27 2 38 6 26 11 43 31 54 42 6 6 8 13 8 21 0 10-6 22-20 23-9 1-16-2-22-9-12-15-27-26-39-31-13-6-27-7-56 11l-465 271 180 105c17 12 25 34 20 53l-20 83 179-105 34-129c4-14 14-27 28-33l114-50c80-35 92 42 40 64l-93 41-80 312-153 88c-39 22-72 37-97 37z m400-100c-55 0-100-45-100-100s45-100 100-100c55 0 100 45 100 100s-45 100-100 100z" horiz-adv-x="950" />
+</font>
+</defs>
+</svg>
